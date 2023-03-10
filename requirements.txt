@@ -1,6 +1,6 @@
 TgCrypto
 Pillow
-pyrogram==1.4.8
+pyrogram==2.0.100
 bs4
 requests
 weasyprint
